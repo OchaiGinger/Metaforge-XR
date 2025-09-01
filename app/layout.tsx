@@ -22,6 +22,9 @@ export const metadata: Metadata = {
   description:
     "Enable smarter fieldwork, faster diagnostics, and safer workflows from anywhere with Metaforge XR extended reality solutions.",
   generator: "v0.app",
+  icons: {
+    icon: "/favicon.ico", 
+  },
 }
 
 export default function RootLayout({
