@@ -10,7 +10,7 @@ const teamMembers = [
   {
     name: "Ngozi Erdoo Esihe",
     role: "Chief Executive Officer",
-    image: "/catherine.png",
+    image: "/ngozi.png",
     border: "border-primary",
     textColor: "text-primary",
     description:
@@ -65,7 +65,7 @@ const testimonials = [
   {
     name: "Lisa Chukwu",
     role: "Grid Operations Chief, PowerGrid Utilities",
-    image: "/lisa.png",
+    image: "/lisa.jpg",
     text: "Implementing Metaforge XR's digital twin technology gave us unprecedented visibility into our power grid. We can now predict and prevent outages before they impact our customers.",
   },
   {
